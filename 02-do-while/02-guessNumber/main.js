@@ -36,7 +36,7 @@ do {
         } else if (outOfRange) {
             alert("Invalid Range, Try 1-99");
         }
-} while (isEmpty || isNan || isEmpty || isNan);
+} while (isEmpty || isNan || isEmpty || isNull);
 
 
 
